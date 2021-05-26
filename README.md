@@ -4,7 +4,7 @@ A modular telegram Python bot running on python3 with an sqlalchemy database.
 
 ഒന്നിലധികം അഡ്‌മിൻ സവിശേഷതകളുള്ള ഒരു ലളിതമായ ഗ്രൂപ്പ് മാനേജുമെന്റ് ബോട്ട്, ഇത് വികസിച്ചു, വളരെ മോഡുലാർ ആയിത്തീർന്നു. ഉപയോഗിക്കാൻ ലളിതമാണ്.
 
-എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](t.me/Mallu_Cartoonzz) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @Mallu_Cartoonzz_Chat എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
+എന്റെ ന്യൂ ഫീച്ചേർസ് [ചാനലിൽ](https://t.me/Mallu_Cartoonzz) ഇടുന്നതായിരിക്കും. സംശയങ്ങൾക്ക് @Mallu_Cartoonzz_Chat എന്ന ഗ്രൂപ്പിൽ വരാവുന്നതാണ്.....
 
 എന്നെ ടെലെഗ്രാമിൽ കാണാൻ സാധിക്കും [മേരി ചേച്ചി 2.0](https://t.me/MalluHero_Bot).
 
@@ -19,7 +19,7 @@ Alternatively, [find me on telegram](https://t.me/Mufazhd)! (Keep all support qu
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie_Chechi2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mufaz100/Marie_Chechi2.0)
 
 ## Starting the bot.
 
